@@ -52,6 +52,6 @@ Area	Current Focus
 ```
 
 
-🤝 lets_connect
+
 <div align="center"> <a href="https://www.linkedin.com/in/dhiraj-madane07/"> <img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117" /> </a> <a href="YOUR_GITHUB"> <img src="https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117" /> </a> <a href="YOUR_TRYHACKME"> <img src="https://img.shields.io/badge/TRYHACKME-00FF9C?style=for-the-badge&logo=tryhackme&logoColor=0D1117" /> </a> </div>
 
