@@ -49,4 +49,17 @@ Area	Current Focus
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 
+```
+
+
+<div align="center">
+Skill	Focus
+Web Application Security	████████████████░░░░
+VAPT	███████████████░░░░░
+Reconnaissance	██████████████░░░░░░
+API Security	████████████░░░░░░░░
+SOC / Detection	█████████████░░░░░░░
+Bug Bounty	███████████░░░░░░░░░
+Python Security Automation	█████████████░░░░░░░
+</div>
 
