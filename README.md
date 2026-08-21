@@ -39,3 +39,14 @@
 │  Mindset     : Learn → Test → Understand → Secure                 │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
+
+<div align="center">
+Area	Current Focus
+🔴 VAPT	Web Application Penetration Testing
+🌐 Web Security	Authentication, Authorization, Injection, XSS, IDOR
+🔵 SOC	Log Analysis & Threat Detection
+🔎 Recon	Attack Surface & Endpoint Discovery
+🐍 Python	Security Automation & Tools
+🐛 Bug Bounty	Vulnerability Research
+☁️ API Security	REST API & Authentication Testing
+</div>
